@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "3rd Sem Internship Certificate For Completing the Course of Web Development",
+    "organisation": "From  CODING PRO",
+    "IssueDate": "On  31 AUG 2023",
+    
+    "location": "At  Mehsana, Gujarat",
+    "aboutcertificate": [
+      "The program focused on building structured, responsive websites and implementing dynamic web technologies."
+    ],
+    "imageSrc": "company/CodingJR.png"
+  },
+  {
+    "id": 2,
+    "title": "5rd Sem Internship Certificate For Completing the Course of React.js",
+    "organisation": " From INFOLABZ IT SERVICES PVT. LTD.",
+    "IssueDate": "On  08 Aug 2024",
+    
+    "location": "At  Ahmedabad, Gujarat",
+    "aboutcertificate": [
+      "During this program, they demonstrated excellent learning and project skills in React.js development. "
+    ],
+    "imageSrc": "company/INFOLABZ.png"
+  },
+  {
+    "id": 3,
+    "title": "Certificate For The Completion of Online JAVA Training",
+    "organisation": "From  Spoken Tutorial Project ",
+    "IssueDate": "On  06 Apr 2024",
+    
+    "location": "At  IIT Bombay, India",
+    "aboutcertificate": [
+      "It signifies the recipient's dedication to mastering Java programming concepts and skills."
+    ],
+    "imageSrc": "company/IITBOMBAY.png"
+  }
+]
