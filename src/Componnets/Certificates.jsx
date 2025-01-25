@@ -5,13 +5,13 @@ const Certificates = () => {
   return (
     <>
     <h1>CERTIFICATES </h1>
-      <div className="container certi">
+      <div className="container certi" id='certificates'>
         
         {
           certificate.map((data) => {
             return (
               <>
-                <div key={data.id} className='certi-items text-center my-5  '>
+                <div key={data.id} className='certi-items text-center my-5' data-aos="zoom-in" data-aos-duration="1000">
                   <div className="left">
 
                     <img src={`/assets/${data.imageSrc}`} alt="" />

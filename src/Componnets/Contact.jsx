@@ -9,9 +9,9 @@ const Contact = () => {
   return (
     <>
       <h1>CONTACT ME</h1>
-      <div className="container contact">
+      <div className="container contact" id='contact'>
 
-        <div className="contact-icon">
+        <div className="contact-icon" data-aos="zoom-in-up" data-aos-duration="1000">
 
           <a href='https://www.instagram.com/utsav._patell?igsh=NzA1Y2VxdzkzM3Y2' className="items">
             <FaInstagram className='icons' />

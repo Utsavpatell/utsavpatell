@@ -3,40 +3,36 @@
     "key": 1,
     "title": "STOCK PRICE PREDICT",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/10/11/17/36/technology-6701404_640.jpg",
-    "description": "This is a project made with complete Machine Learning.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with complete Machine Learning."
+  
   },
   {
     "key": 2,
     "title": "SPOOLER USING DS",
     "imageSrc": "https://cdn.pixabay.com/photo/2022/09/25/14/45/blockchain-7478506_960_720.jpg",
-    "description": "This is a project made with complete Python Program.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with complete Python Program."
+  
   },
   {
     "key": 3,
     "title": "ONLINE RECIPE ORDER",
     "imageSrc": "https://cdn.pixabay.com/photo/2022/01/28/12/17/fast-food-6974507_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with complete React js."
+   
   },
   {
     "key": 4,
     "title": "PERSONAL AI",
     "imageSrc": "https://cdn.pixabay.com/photo/2024/06/01/14/00/ai-8802304_640.jpg",
-    "description": "This is a project made with complete Python.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with complete Python."
+    
   },
   {
     "key": 5,
     "title": "TIC TAC TOE GAME",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/10/28/12/12/tic-tac-toe-1777880_640.jpg",
-    "description": "This is a project made with complete Python.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with complete Python."
+    
+   
   }
 ]
